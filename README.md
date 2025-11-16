@@ -4,6 +4,9 @@
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">AstralBit</a></b>
         </samp>
+        <samp>
+                I am a front-end developer.
+        </samp>
 </h3>
 
 ![](assets/Bottom_down.svg)
